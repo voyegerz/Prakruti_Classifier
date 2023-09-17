@@ -1,0 +1,738 @@
+question,option,class
+How is your digestion?,Irregular,Vata
+How is your digestion?,Fairly good,Pitta
+How is your digestion?,Strong digestion,Kapha
+How is the quality and quantity of your hair on your scalp?,Light-soft-shiny-little baldness,Pitta
+How is the quality and quantity of your hair on your scalp?,Less growth-dry-weak hair,Vata
+How is the quality and quantity of your hair on your scalp?,Long-soft-dense-thick hair,Kapha
+How is your skin complexion?,Dry and rough,Vata
+How is your skin complexion?,Fair and sensitive,Pitta
+How is your skin complexion?,Oily and smooth,Kapha
+How would you describe your body temperature?,Cold hands and feet,Vata
+How would you describe your body temperature?,Warm prone to sweating,Pitta
+How would you describe your body temperature?,Steady and warm,Kapha
+How is your energy level?,Easily fatigued,Vata
+How is your energy level?,Moderate and consistent,Pitta
+How is your energy level?,Steady and abundant,Kapha
+How do you handle stress?,Anxious and worried,Vata
+How do you handle stress?,Angry and irritable,Pitta
+How do you handle stress?,Calm and patient,Kapha
+How is your sleep pattern?,Light and restless,Vata
+How is your sleep pattern?,Interrupted but sound,Pitta
+How is your sleep pattern?,Deep and prolonged,Kapha
+How is your appetite?,Variable and often forget to eat,Vata
+How is your appetite?,Strong and always hungry,Pitta
+How is your appetite?,Steady and not very hungry,Kapha
+How is your vision?,Blurry and sensitive to light,Vata
+How is your vision?,Sharp but can be sensitive to glare,Pitta
+How is your vision?,Steady and clear,Kapha
+How is your flexibility?,Stiff and easily get muscle cramps,Vata
+How is your flexibility?,Moderate and prone to inflammation,Pitta
+How is your flexibility?,Supple and rarely experience stiffness,Kapha
+How is your ability to concentrate?,Easily distracted and forgetful,Vata
+How is your ability to concentrate?,Focused but can become intense,Pitta
+How is your ability to concentrate?,Steady and patient,Kapha
+How do you handle spicy food?,Avoids spices prefers bland food,Vata
+How do you handle spicy food?,Loves very spicy food,Pitta
+How do you handle spicy food?,Moderate spice tolerance prefers balanced flavors,Kapha
+How do you respond to stress?,Nervous and anxious,Vata
+How do you respond to stress?,Irritable and short-tempered,Pitta
+How do you respond to stress?,Calm and composed,Kapha
+How do you react to cold weather?,Dislikes cold weather feels chilly easily,Vata
+How do you react to cold weather?,Tolerates cold but prefers warmth,Pitta
+How do you react to cold weather?,Comfortable in cold climates,Kapha
+How is your hair texture?,Dry and frizzy,Vata
+How is your hair texture?,Fine and prone to oiliness,Pitta
+How is your hair texture?,Thick and lustrous,Kapha
+How do you approach physical activity?,Enjoys variety prone to sporadic exercise,Vata
+How do you approach physical activity?,Intense workouts and competition,Pitta
+How do you approach physical activity?,Regular moderate exercise routine,Kapha
+How is your memory recall?,Quick but forgets easily,Vata
+How is your memory recall?,Sharp and remembers well,Pitta
+How is your memory recall?,Steady and rarely forgets,Kapha
+How do you react to loud noise?,Sensitive to noise easily disturbed,Vata
+How do you react to loud noise?,Tolerant but can get irritated,Pitta
+How do you react to loud noise?,Calm and unaffected,Kapha
+How is your reaction to caffeine?,Sensitive gets jittery easily,Vata
+How is your reaction to caffeine?,Tolerant but can get hyper,Pitta
+How is your reaction to caffeine?,Steady doesn't experience caffeine rush,Kapha
+How is your appetite for sweets?,Variable occasional cravings,Vata
+How is your appetite for sweets?,Loves sweet treats,Pitta
+How is your appetite for sweets?,Moderate prefers savory snacks,Kapha
+How is your tolerance to heat?,Intolerant to heat prone to sunburn,Vata
+How is your tolerance to heat?,Tolerates heat but gets overheated,Pitta
+How is your tolerance to heat?,Comfortable in hot weather,Kapha
+How do you handle conflicts?,Avoids conflicts dislikes confrontation,Vata
+How do you handle conflicts?,Assertive can become argumentative,Pitta
+How do you handle conflicts?,Calm and diplomatic,Kapha
+How is your sense of smell?,Sensitive to odors easily overwhelmed,Vata
+How is your sense of smell?,Moderate sensitivity can detect subtle scents,Pitta
+How is your sense of smell?,Steady and stable rarely affected,Kapha
+How is your response to cold foods?,Dislikes cold foods prefers warm meals,Vata
+How is your response to cold foods?,Tolerates cold foods but prefers warm,Pitta
+How is your response to cold foods?,Enjoys cold foods and beverages,Kapha
+How is your endurance for mental tasks?,Variable gets mentally fatigued easily,Vata
+How is your endurance for mental tasks?,Focused but can become impatient,Pitta
+How is your endurance for mental tasks?,Steady and patient,Kapha
+How do you approach changes in routine?,Resistant to change prefers consistency,Vata
+How do you approach changes in routine?,Adaptable but can become restless,Pitta
+How do you approach changes in routine?,Accepting of change adapts easily,Kapha
+How is your response to cold weather?,Cold-sensitive and shivering,Vata
+How is your response to cold weather?,Tolerates cold but dislikes it,Pitta
+How is your response to cold weather?,Comfortable and warm in the cold,Kapha
+How do you handle surprises?,Startled and anxious,Vata
+How do you handle surprises?,Excited but can become overwhelmed,Pitta
+How do you handle surprises?,Calm and composed,Kapha
+How is your sense of taste?,Sensitive can detect subtle flavors,Vata
+How is your sense of taste?,Strong and discerning,Pitta
+How is your sense of taste?,Steady prefers balanced tastes,Kapha
+How is your response to humidity?,Dislikes humidity feels uncomfortable,Vata
+How is your response to humidity?,Tolerates humidity but gets irritated,Pitta
+How is your response to humidity?,Comfortable in humid conditions,Kapha
+How is your nail texture?,Brittle and prone to breakage,Vata
+How is your nail texture?,Moderate not too strong or weak,Pitta
+How is your nail texture?,Strong and well-nourished,Kapha
+How do you handle crowded spaces?,Anxious and claustrophobic,Vata
+How do you handle crowded spaces?,Tolerant but can get agitated,Pitta
+How do you handle crowded spaces?,Calm and composed,Kapha
+How is your sense of touch?,Sensitive easily feel textures,Vata
+How is your sense of touch?,Moderate can feel but not overly sensitive,Pitta
+How is your sense of touch?,Steady and stable rarely affected,Kapha
+How do you approach intellectual challenges?,Curious but easily distracted,Vata
+How do you approach intellectual challenges?,Focused but can become critical,Pitta
+How do you approach intellectual challenges?,Steady and patient,Kapha
+How is your emotional resilience?,Variable prone to mood swings,Vata
+How is your emotional resilience?,Strong but can get irritated,Pitta
+How is your emotional resilience?,Steady and emotionally stable,Kapha
+How do you handle long periods of sitting?,Restless and uncomfortable,Vata
+How do you handle long periods of sitting?,Focused but can become impatient,Pitta
+How do you handle long periods of sitting?,Comfortable and patient,Kapha
+How is your response to dry climates?,Dry and uncomfortable,Vata
+How is your response to dry climates?,Tolerates dryness but may become irritable,Pitta
+How is your response to dry climates?,Comfortable and well-hydrated,Kapha
+How is your decision-making in a crisis?,Indecisive and anxious,Vata
+How is your decision-making in a crisis?,Quick but can be impulsive,Pitta
+How is your decision-making in a crisis?,Calm and methodical,Kapha
+How is your response to pollen and allergens?,Sensitive to allergens prone to allergies,Vata
+How is your response to pollen and allergens?,Tolerant but can get irritated,Pitta
+How is your response to pollen and allergens?,Steady and rarely affected,Kapha
+How do you handle excess stimulation?,Overwhelmed and anxious,Vata
+How do you handle excess stimulation?,Excited but can become restless,Pitta
+How do you handle excess stimulation?,Calm and composed,Kapha
+How is your response to loud music?,Sensitive to loud sounds easily disturbed,Vata
+How is your response to loud music?,Tolerant but may become irritated,Pitta
+How is your response to loud music?,Calm and unaffected,Kapha
+How do you handle setbacks?,Anxious and discouraged,Vata
+How do you handle setbacks?,Determined but can get frustrated,Pitta
+How do you handle setbacks?,Calm and resilient,Kapha
+How is your response to spicy foods?,Sensitive to spices avoids spicy foods,Vata
+How is your response to spicy foods?,Loves spicy foods and can tolerate them,Pitta
+How is your response to spicy foods?,Moderate spice tolerance prefers milder flavors,Kapha
+How is your response to cold drafts?,Sensitive to drafts gets chilly easily,Vata
+How is your response to cold drafts?,Tolerates drafts but dislikes them,Pitta
+How is your response to cold drafts?,Comfortable in drafts and doesn't get cold,Kapha
+How do you handle unexpected changes?,Anxious and resistant,Vata
+How do you handle unexpected changes?,Adaptable but can be impatient,Pitta
+How do you handle unexpected changes?,Accepting and steady,Kapha
+How is your response to pollen and allergens?,Tolerant but may become irritated,Pitta
+How do you handle social gatherings?,Anxious and uncomfortable,Vata
+How do you handle social gatherings?,Confident but can become competitive,Pitta
+How do you handle social gatherings?,Calm and inclusive,Kapha
+How is your response to excessive noise?,Sensitive to noise easily disturbed,Vata
+How is your response to excessive noise?,Tolerant but may get irritated,Pitta
+How is your response to excessive noise?,Calm and unaffected,Kapha
+How do you approach financial decisions?,Impulsive and risky,Vata
+How do you approach financial decisions?,Prudent but can become critical,Pitta
+How do you approach financial decisions?,Steady and cautious,Kapha
+How do you handle criticism?,Sensitive and easily hurt,Vata
+How do you handle criticism?,Assertive but can become defensive,Pitta
+How do you handle criticism?,Calm and open to feedback,Kapha
+How is your hair texture?,Dry and coarse,Vata
+How is your response to changes in weather?,Sensitive to weather changes discomfort,Vata
+How is your response to changes in weather?,Tolerant but can get affected,Pitta
+How is your response to changes in weather?,Steady and unaffected,Kapha
+How do you handle physical challenges?,Challenged and prone to injuries,Vata
+How do you handle physical challenges?,Competitive but can overexert,Pitta
+How do you handle physical challenges?,Steady and persistent,Kapha
+How is your response to extreme temperatures?,Intolerant of extreme temperatures discomfort,Vata
+How is your response to extreme temperatures?,Tolerates but doesn't prefer extremes,Pitta
+How is your response to extreme temperatures?,Comfortable in extreme temperatures,Kapha
+How do you handle conflicts?,Assertive but can become argumentative,Pitta
+How do you approach change in routine?,Resistant to change prefers consistency,Vata
+How do you approach change in routine?,Adaptable but can become restless,Pitta
+How do you approach change in routine?,Accepting of change adapts easily,Kapha
+How is your response to pollution and smog?,Sensitive discomfort and health issues,Vata
+How is your response to pollution and smog?,Tolerant but can get affected,Pitta
+How is your response to pollution and smog?,Resilient and unaffected,Kapha
+How do you handle social situations?,Anxious and introverted,Vata
+How do you handle social situations?,Confident but can become competitive,Pitta
+How do you handle social situations?,Calm and inclusive,Kapha
+How is your response to bright lights?,Sensitive to bright lights discomfort,Vata
+How is your response to bright lights?,Tolerant but can get irritated,Pitta
+How is your response to bright lights?,Comfortable and unaffected,Kapha
+How do you handle financial decisions?,Impulsive and risky,Vata
+How do you handle financial decisions?,Prudent but can become critical,Pitta
+How do you handle financial decisions?,Steady and cautious,Kapha
+How is your voice tone?,Variable can speak quickly,Vata
+How is your voice tone?,Strong and assertive,Pitta
+How is your voice tone?,Steady and melodious,Kapha
+How do you respond to changes in routine?,Resistant to change prefers consistency,Vata
+How do you respond to changes in routine?,Adaptable but can become restless,Pitta
+How do you respond to changes in routine?,Accepting of change adapts easily,Kapha
+How do you approach problem-solving?,Quick but can be impulsive,Vata
+How do you approach problem-solving?,Focused but can become critical,Pitta
+How do you approach problem-solving?,Steady and patient,Kapha
+How is your physical flexibility?,Stiff and prone to muscle cramps,Vata
+How is your physical flexibility?,Moderate prone to inflammation,Pitta
+How is your physical flexibility?,Supple and rarely experiences stiffness,Kapha
+How do you approach creativity?,Creative but easily distracted,Vata
+How do you approach creativity?,Focused but can become critical,Pitta
+How do you approach creativity?,Steady and patient,Kapha
+How is your response to bright colors?,Sensitive to bright colors discomfort,Vata
+How is your response to bright colors?,Tolerant but may become irritable,Pitta
+How is your response to bright colors?,Comfortable and unaffected,Kapha
+How is your response to crowded places?,Anxious and uncomfortable,Vata
+How is your response to crowded places?,Confident but can become competitive,Pitta
+How is your response to crowded places?,Calm and inclusive,Kapha
+How do you handle criticism about your appearance?,Sensitive and easily hurt,Vata
+How do you handle criticism about your appearance?,Assertive but can become defensive,Pitta
+How do you handle criticism about your appearance?,Calm and open to feedback,Kapha
+How do you handle emotional stress?,Anxious and overwhelmed,Vata
+How do you handle emotional stress?,Irritable and prone to outbursts,Pitta
+How do you handle emotional stress?,Calm and patient,Kapha
+How is your response to sudden loud noises?,Startled and anxious,Vata
+How is your response to sudden loud noises?,Excited but can become overwhelmed,Pitta
+How is your response to sudden loud noises?,Calm and composed,Kapha
+How do you approach new technology?,Curious but can be overwhelmed,Vata
+How do you approach new technology?,Quick to adapt but can be impatient,Pitta
+How do you approach new technology?,Cautious and methodical,Kapha
+How do you handle physical injuries?,Prone to injuries and slow healing,Vata
+How do you handle physical injuries?,Moderate healing but can be impatient,Pitta
+How do you handle physical injuries?,Quick healing and minimal scarring,Kapha
+How do you handle social conflicts?,Avoids conflicts dislikes confrontation,Vata
+How do you handle social conflicts?,Assertive but can become argumentative,Pitta
+How do you handle social conflicts?,Calm and diplomatic,Kapha
+How is your response to caffeine?,Sensitive gets jittery easily,Vata
+How is your response to caffeine?,Tolerant but can get hyper,Pitta
+How is your response to caffeine?,Steady doesn't experience caffeine rush,Kapha
+How do you approach financial risk?,Risk-averse prefers safe investments,Vata
+How do you approach financial risk?,Moderate risk-taker seeks balanced investments,Pitta
+How do you approach financial risk?,Comfortable with risk seeks high returns,Kapha
+How is your response to hot beverages?,Dislikes hot beverages prefers cold,Vata
+How is your response to hot beverages?,Tolerates hot beverages but may get heated,Pitta
+How is your response to hot beverages?,Enjoys hot beverages comforts with warmth,Kapha
+How do you handle changes in your daily routine?,Resistant to changes prefers consistency,Vata
+How do you handle changes in your daily routine?,Adaptable but can become restless,Pitta
+How do you handle changes in your daily routine?,Accepting of changes adapts easily,Kapha
+How is your response to strong scents?,Sensitive to strong scents easily overwhelmed,Vata
+How is your response to strong scents?,Tolerant but may get irritated,Pitta
+How is your response to strong scents?,Calm and unaffected,Kapha
+How do you handle work-related stress?,Anxious and overwhelmed,Vata
+How do you handle work-related stress?,Irritable and prone to burnout,Pitta
+How do you handle work-related stress?,Calm and steady rarely stressed,Kapha
+How is your reaction to bright lights?,Sensitive to bright lights discomfort,Vata
+How is your reaction to bright lights?,Tolerant but may become irritated,Pitta
+How is your reaction to bright lights?,Comfortable and unaffected,Kapha
+How do you handle clutter and disorganization?,Anxious and uncomfortable,Vata
+How do you handle clutter and disorganization?,Frustrated but can be critical,Pitta
+How do you handle clutter and disorganization?,Calm and patient prefers order,Kapha
+How is your response to romantic relationships?,Excited but can become possessive,Pitta
+How is your response to romantic relationships?,Calm and loyal seeks stability,Kapha
+How is your response to romantic relationships?,Sensitive and prone to insecurity,Vata
+How do you respond to change in weather?,Sensitive to weather changes discomfort,Vata
+How do you respond to change in weather?,Tolerant but can get affected,Pitta
+How do you respond to change in weather?,Steady and unaffected,Kapha
+How is your response to sudden changes in plans?,Anxious and resistant,Vata
+How is your response to sudden changes in plans?,Adaptable but can be impatient,Pitta
+How is your response to sudden changes in plans?,Accepting and steady,Kapha
+How is your reaction to spicy foods?,Sensitive to spices avoids spicy foods,Vata
+How is your reaction to spicy foods?,Loves spicy foods and can tolerate them,Pitta
+How is your reaction to spicy foods?,Moderate spice tolerance prefers milder flavors,Kapha
+How do you handle change in routines?,Resistant to change prefers consistency,Vata
+How do you handle change in routines?,Adaptable but can become restless,Pitta
+How do you handle change in routines?,Accepting of change adapts easily,Kapha
+How do you respond to changes in the environment?,Sensitive to changes discomfort,Vata
+How do you respond to changes in the environment?,Tolerant but can get affected,Pitta
+How do you respond to changes in the environment?,Steady and unaffected,Kapha
+How do you approach decision-making?,Indecisive and anxious,Vata
+How do you approach decision-making?,Quick but can be impulsive,Pitta
+How do you approach decision-making?,Calm and methodical,Kapha
+How is your response to criticism?,Sensitive and easily hurt,Vata
+How is your response to criticism?,Assertive but can become defensive,Pitta
+How is your response to criticism?,Calm and open to feedback,Kapha
+How is your reaction to unexpected news?,Startled and anxious,Vata
+How is your reaction to unexpected news?,Excited but can become overwhelmed,Pitta
+How is your reaction to unexpected news?,Calm and composed,Kapha
+How do you handle physical discomfort?,Restless and uncomfortable,Vata
+How do you handle physical discomfort?,Focused but can become impatient,Pitta
+How do you handle physical discomfort?,Comfortable and patient,Kapha
+How do you approach physical challenges?,Challenged and prone to injuries,Vata
+How do you approach physical challenges?,Competitive but can overexert,Pitta
+How do you approach physical challenges?,Steady and persistent,Kapha
+How do you handle social gatherings?,Anxious and introverted,Vata
+How do you handle setbacks in life?,Anxious and discouraged,Vata
+How do you handle setbacks in life?,Determined but can get frustrated,Pitta
+How do you handle setbacks in life?,Calm and resilient,Kapha
+How do you handle surprises in life?,Startled and anxious,Vata
+How do you handle surprises in life?,Excited but can become overwhelmed,Pitta
+How do you handle surprises in life?,Calm and composed,Kapha
+How is your response to caffeine consumption?,Sensitive gets jittery easily,Vata
+How is your response to caffeine consumption?,Tolerant but can get hyper,Pitta
+How is your response to caffeine consumption?,Steady doesn't experience caffeine rush,Kapha
+How do you handle stress at work?,Anxious and overwhelmed,Vata
+How do you handle stress at work?,Irritable and prone to burnout,Pitta
+How do you handle stress at work?,Calm and steady rarely stressed,Kapha
+How do you approach new friendships?,Cautious and reserved,Vata
+How do you approach new friendships?,Eager but can become overbearing,Pitta
+How do you approach new friendships?,Friendly and inclusive,Kapha
+How do you handle work-related changes?,Anxious and resistant,Vata
+How do you handle work-related changes?,Adaptable but can be impatient,Pitta
+How do you handle work-related changes?,Accepting and steady,Kapha
+How do you approach creative tasks?,Creative but easily distracted,Vata
+How do you approach creative tasks?,Focused but can become critical,Pitta
+How do you approach creative tasks?,Steady and patient,Kapha
+How is your response to hot weather?,Intolerant of hot weather discomfort,Vata
+How is your response to hot weather?,Tolerates hot weather but may get heated,Pitta
+How is your response to hot weather?,Comfortable in hot weather,Kapha
+How do you handle relationship conflicts?,Avoids conflicts dislikes confrontation,Vata
+How do you handle relationship conflicts?,Assertive but can become argumentative,Pitta
+How do you handle relationship conflicts?,Calm and diplomatic,Kapha
+How is your response to excessive humidity?,Sensitive to humidity discomfort,Vata
+How is your response to excessive humidity?,Tolerates humidity but can become irritable,Pitta
+How is your response to excessive humidity?,Comfortable in humid conditions,Kapha
+How do you handle unexpected expenses?,Anxious and stressed,Vata
+How do you handle unexpected expenses?,Prudent but can become critical,Pitta
+How do you handle unexpected expenses?,Calm and budget-conscious,Kapha
+How do you approach physical fitness?,Energetic but can be inconsistent,Vata
+How do you approach physical fitness?,Disciplined but can overexert,Pitta
+How do you approach physical fitness?,Steady and enjoys regular exercise,Kapha
+How is your response to intense emotions?,Overwhelmed and anxious,Vata
+How is your response to intense emotions?,Excited but can become restless,Pitta
+How is your response to intense emotions?,Calm and composed,Kapha
+How do you handle criticism about your work?,Sensitive and easily hurt,Vata
+How do you handle criticism about your work?,Assertive but can become defensive,Pitta
+How do you handle criticism about your work?,Calm and open to feedback,Kapha
+How do you handle surprises at work?,Startled and anxious,Vata
+How do you handle surprises at work?,Excited but can become overwhelmed,Pitta
+How do you handle surprises at work?,Calm and composed,Kapha
+How do you handle public speaking?,Anxious and uncomfortable,Vata
+How do you handle public speaking?,Confident but can become competitive,Pitta
+How do you handle public speaking?,Calm and engaging,Kapha
+How is your response to sweet foods?,Sensitive to sweetness dislikes sugary foods,Vata
+How is your response to sweet foods?,Enjoys sweets but can overindulge,Pitta
+How is your response to sweet foods?,Moderate sweetness preference enjoys in moderation,Kapha
+How do you handle relationship challenges?,Avoids confrontations dislikes conflicts,Vata
+How do you handle relationship challenges?,Assertive but can become argumentative,Pitta
+How do you handle relationship challenges?,Calm and diplomatic,Kapha
+How is your response to bright sunlight?,Sensitive to bright sunlight discomfort,Vata
+How is your response to bright sunlight?,Tolerant but may become irritable,Pitta
+How is your response to bright sunlight?,Comfortable and unaffected,Kapha
+How do you handle work-related pressure?,Anxious and overwhelmed,Vata
+How do you handle work-related pressure?,Irritable and prone to stress,Pitta
+How do you handle work-related pressure?,Calm and focused,Kapha
+How is your reaction to strong winds?,Sensitive to strong winds discomfort,Vata
+How is your reaction to strong winds?,Tolerant but may become agitated,Pitta
+How is your reaction to strong winds?,Comfortable in strong winds,Kapha
+How do you handle time pressure at work?,Anxious and overwhelmed,Vata
+How do you handle time pressure at work?,Irritable and prone to stress,Pitta
+How do you handle time pressure at work?,Calm and focused,Kapha
+How is your response to bitter foods?,Sensitive to bitterness dislikes bitter foods,Vata
+How is your response to bitter foods?,Enjoys bitter foods but can overindulge,Pitta
+How is your response to bitter foods?,Moderate bitterness preference enjoys in moderation,Kapha
+How do you handle relationship misunderstandings?,Avoids confrontations dislikes conflicts,Vata
+How do you handle relationship misunderstandings?,Assertive but can become argumentative,Pitta
+How do you handle relationship misunderstandings?,Calm and diplomatic,Kapha
+How is your response to dim lighting?,Sensitive to dim lighting discomfort,Vata
+How is your response to dim lighting?,Tolerant but may become irritable,Pitta
+How is your response to dim lighting?,Comfortable and unaffected,Kapha
+How do you handle job interviews?,Nervous and anxious,Vata
+How do you handle job interviews?,Confident but can become competitive,Pitta
+How do you handle job interviews?,Calm and composed,Kapha
+How is your reaction to strong scents?,Sensitive to strong scents easily overwhelmed,Vata
+How is your reaction to strong scents?,Tolerant but may get irritated,Pitta
+How is your reaction to strong scents?,Calm and unaffected,Kapha
+How is your response to extreme heat?,Intolerant of extreme heat discomfort,Vata
+How is your response to extreme heat?,Tolerates extreme heat but may become heated,Pitta
+How is your response to extreme heat?,Comfortable in extreme heat,Kapha
+How do you approach challenges in relationships?,Avoids conflicts dislikes confrontation,Vata
+How do you approach challenges in relationships?,Assertive but can become argumentative,Pitta
+How do you approach challenges in relationships?,Calm and diplomatic,Kapha
+How is your response to heavy traffic?,Anxious and impatient,Vata
+How is your response to heavy traffic?,Irritable but can become stressed,Pitta
+How is your response to heavy traffic?,Calm and patient,Kapha
+How do you handle unexpected changes?,Anxious but becoming more adaptable,Vata
+How do you handle unexpected changes?,Adaptable but becoming more impatient,Pitta
+How do you handle unexpected changes?,Becoming more accepting and steady,Kapha
+How is your response to sweet foods?,Sensitive to sweetness but trying to enjoy them,Vata
+How is your response to sweet foods?,Enjoys sweets but working on moderation,Pitta
+How is your response to sweet foods?,Preferring moderate sweetness seeking balance,Kapha
+How do you handle relationship misunderstandings?,Avoiding conflicts but learning to communicate,Vata
+How do you handle relationship misunderstandings?,Assertive but striving for diplomacy,Pitta
+How do you handle relationship misunderstandings?,Calm and diplomatic working on assertiveness,Kapha
+How is your response to dim lighting?,Sensitive to dim lighting trying to adapt,Vata
+How is your response to dim lighting?,Tolerant but learning patience,Pitta
+How is your response to dim lighting?,Comfortable and unaffected seeking balance,Kapha
+How do you handle job interviews?,Nervous but gaining confidence,Vata
+How do you handle job interviews?,Confident but learning to control competitiveness,Pitta
+How do you handle job interviews?,Calm and composed striving for engagement,Kapha
+How is your reaction to strong scents?,Sensitive to strong scents working on tolerance,Vata
+How is your reaction to strong scents?,Tolerant but practicing patience,Pitta
+How is your reaction to strong scents?,Calm and unaffected seeking balance,Kapha
+How do you handle changes in your daily routine?,Resistant to changes but open to adaptation,Vata
+How do you handle changes in your daily routine?,Adaptable but striving for consistency,Pitta
+How do you handle changes in your daily routine?,Accepting of changes and adapting easily,Kapha
+How is your response to extreme heat?,Intolerant of extreme heat but learning to cope,Vata
+How is your response to extreme heat?,Tolerates extreme heat but practicing moderation,Pitta
+How is your response to extreme heat?,Comfortable in extreme heat seeking balance,Kapha
+How do you approach challenges in relationships?,Avoids conflicts but learning to express emotions,Vata
+How do you approach challenges in relationships?,Assertive but working on patience,Pitta
+How do you approach challenges in relationships?,Calm and diplomatic striving for assertiveness,Kapha
+How is your response to heavy traffic?,Anxious and impatient working on stress management,Vata
+How is your response to heavy traffic?,Irritable but striving for patience,Pitta
+How is your response to heavy traffic?,Calm and patient practicing mindfulness,Kapha
+How do you handle unexpected expenses?,Anxious and stressed working on financial planning,Vata
+How do you handle unexpected expenses?,Prudent but striving for financial flexibility,Pitta
+How do you handle unexpected expenses?,Calm and budget-conscious seeking financial stability,Kapha
+How do you approach physical fitness?,Energetic but working on consistency,Vata
+How do you approach physical fitness?,Disciplined but learning to avoid overexertion,Pitta
+How do you approach physical fitness?,Steady and enjoying regular exercise striving for balance,Kapha
+How is your response to intense emotions?,Overwhelmed and anxious working on emotional resilience,Vata
+How is your response to intense emotions?,Excited but striving for emotional stability,Pitta
+How is your response to intense emotions?,Calm and composed seeking emotional balance,Kapha
+How do you handle criticism about your work?,Sensitive and easily hurt working on self-confidence,Vata
+How do you handle criticism about your work?,Assertive but striving for openness to feedback,Pitta
+How do you handle criticism about your work?,Calm and open to feedback seeking growth,Kapha
+How is your response to crowded places?,Anxious and uncomfortable working on social interactions,Vata
+How is your response to crowded places?,Confident but learning to manage competitiveness,Pitta
+How is your response to crowded places?,Calm and inclusive striving for balanced social interactions,Kapha
+How do you handle surprises at work?,Startled and anxious working on adaptability,Vata
+How do you handle surprises at work?,Excited but striving for composure,Pitta
+How do you handle surprises at work?,Calm and composed seeking engagement,Kapha
+How is your emotional resilience?,Variable prone to mood swings but working on stability,Vata
+How is your emotional resilience?,Strong but learning to manage irritability,Pitta
+How is your emotional resilience?,Steady and emotionally stable striving for emotional balance,Kapha
+How do you handle public speaking?,Anxious and uncomfortable working on confidence,Vata
+How do you handle public speaking?,Confident but learning to manage competitiveness,Pitta
+How do you handle public speaking?,Calm and engaging striving for balanced communication,Kapha
+How is your response to bright colors?,Sensitive to bright colors working on tolerance,Vata
+How is your response to bright colors?,Tolerant but may become irritable striving for balance,Pitta
+How is your response to bright colors?,Comfortable and unaffected seeking balance,Kapha
+How do you handle relationship misunderstandings?,Avoids conflicts but learning to communicate,Vata
+How is your reaction to strong scents?,Tolerant but may get irritated striving for balance,Pitta
+How is your response to dim lighting?,Tolerant but may become irritable striving for balance,Pitta
+How do you handle unexpected changes?,Adaptable and open to new experiences,Vata
+How do you handle unexpected changes?,Confident and embraces change,Pitta
+How do you handle unexpected changes?,Calm and adaptable,Kapha
+How is your response to sweet foods?,Enjoys sweets in moderation,Vata
+How is your response to sweet foods?,Loves sweets but practices restraint,Pitta
+How is your response to sweet foods?,Prefers balanced sweetness,Kapha
+How do you handle relationship misunderstandings?,Open to communication and understanding,Vata
+How do you handle relationship misunderstandings?,Assertive and diplomatic,Pitta
+How do you handle relationship misunderstandings?,Calm and balanced,Kapha
+How is your response to dim lighting?,Adaptable to dim lighting,Vata
+How is your response to dim lighting?,Tolerates dim lighting well,Pitta
+How is your response to dim lighting?,Comfortable in dim lighting,Kapha
+How do you handle job interviews?,Confident and engaging,Vata
+How do you handle job interviews?,Calm and composed,Pitta
+How do you handle job interviews?,Relaxed and confident,Kapha
+How is your reaction to strong scents?,Tolerates strong scents well,Vata
+How is your reaction to strong scents?,Calm and unaffected,Pitta
+How is your reaction to strong scents?,Comfortable with strong scents,Kapha
+How do you handle changes in your daily routine?,Adapts easily to changes,Vata
+How do you handle changes in your daily routine?,Balances consistency and adaptability,Pitta
+How do you handle changes in your daily routine?,Accepts changes gracefully,Kapha
+How is your response to extreme heat?,Tolerates extreme heat well,Vata
+How is your response to extreme heat?,Balanced in extreme heat,Pitta
+How do you approach challenges in relationships?,Expresses emotions openly,Vata
+How do you approach challenges in relationships?,Assertive and patient,Pitta
+How do you approach challenges in relationships?,Diplomatic and balanced,Kapha
+How is your response to heavy traffic?,Manages stress in heavy traffic,Vata
+How is your response to heavy traffic?,Patient in heavy traffic,Pitta
+How is your response to heavy traffic?,Calm and composed,Kapha
+How do you handle unexpected expenses?,Plans finances well,Vata
+How do you handle unexpected expenses?,Manages finances efficiently,Pitta
+How do you handle unexpected expenses?,Budgets wisely,Kapha
+How do you approach physical fitness?,Balances energy and consistency,Vata
+How do you approach physical fitness?,Moderation in exercise,Pitta
+How do you approach physical fitness?,Regular and steady exercise,Kapha
+How is your response to intense emotions?,Balances emotions well,Vata
+How is your response to intense emotions?,Manages emotions effectively,Pitta
+How is your response to intense emotions?,Calm and stable emotions,Kapha
+How do you handle criticism about your work?,Builds self-confidence,Vata
+How do you handle criticism about your work?,Receptive to feedback,Pitta
+How do you handle criticism about your work?,Open to improvement,Kapha
+How is your response to crowded places?,Adaptable in crowded places,Vata
+How is your response to crowded places?,Confident in social settings,Pitta
+How is your response to crowded places?,Comfortable in crowds,Kapha
+How do you handle surprises at work?,Adapts to work surprises,Vata
+How do you handle surprises at work?,Calm and composed,Pitta
+How do you handle surprises at work?,Steady and engaged,Kapha
+How is your emotional resilience?,Balances emotions effectively,Vata
+How is your emotional resilience?,Manages emotions with strength,Pitta
+How is your emotional resilience?,Stable emotional balance,Kapha
+How do you handle public speaking?,Engages confidently in public speaking,Vata
+How do you handle public speaking?,Manages competitiveness in public speaking,Pitta
+How do you handle public speaking?,Balances communication effectively,Kapha
+How is your response to bright colors?,Tolerates bright colors well,Vata
+How is your response to bright colors?,Balances reactions to bright colors,Pitta
+How is your response to bright colors?,Comfortable with bright colors,Kapha
+What is your approach to time management?,Efficient and organized,Vata
+What is your approach to time management?,Structured and disciplined,Pitta
+What is your approach to time management?,Relaxed and patient,Kapha
+How do you handle unexpected changes in plans?,Adaptable and flexible,Vata
+How do you handle unexpected changes in plans?,Resourceful and quick to adjust,Pitta
+How do you handle unexpected changes in plans?,Calm and unfazed,Kapha
+What is your favorite leisure activity?,Exploring new places and experiences,Vata
+What is your favorite leisure activity?,Competing in sports or challenges,Pitta
+What is your favorite leisure activity?,Relaxing and enjoying downtime,Kapha
+How do you respond to spicy foods?,Enjoys them in moderation,Vata
+How do you respond to spicy foods?,Loves spicy foods but practices restraint,Pitta
+How do you respond to spicy foods?,Prefers mild flavors and avoids spice,Kapha
+How do you handle disagreements with friends?,Expresses feelings openly,Vata
+How do you handle disagreements with friends?,Assertive and persuasive,Pitta
+How do you handle disagreements with friends?,Diplomatic and peace-seeking,Kapha
+What is your preferred work environment?,Dynamic and fast-paced,Vata
+What is your preferred work environment?,Challenging and competitive,Pitta
+What is your preferred work environment?,Stable and harmonious,Kapha
+How do you react to technology malfunctions?,Impatient and frustrated,Vata
+How do you react to technology malfunctions?,Eager to fix and may get irritated,Pitta
+How do you react to technology malfunctions?,Calm and patient,Kapha
+What is your communication style?,Talkative and expressive,Vata
+What is your communication style?,Direct and to the point,Pitta
+What is your communication style?,Calm and deliberate,Kapha
+What do you do when feeling stressed?,Seek relaxation techniques,Vata
+What do you do when feeling stressed?,Find solutions and take action,Pitta
+What do you do when feeling stressed?,Rest and unwind,Kapha
+How do you approach decision-making?,Consider multiple options,Vata
+How do you approach decision-making?,Analyze and weigh pros and cons,Pitta
+How do you approach decision-making?,Go with gut feeling and intuition,Kapha
+How do you handle financial investments?,Experimental and risk-taking,Vata
+How do you handle financial investments?,Strategic and goal-oriented,Pitta
+How do you handle financial investments?,Cautious and stable,Kapha
+What is your attitude towards travel?,Spontaneous and adventurous,Vata
+What is your attitude towards travel?,Exploratory and goal-driven,Pitta
+What is your attitude towards travel?,Relaxed and leisurely,Kapha
+What is your approach to learning new skills?,Eager and experimental,Vata
+What is your approach to learning new skills?,Focused and determined,Pitta
+What is your approach to learning new skills?,Patient and methodical,Kapha
+How do you respond to setbacks?,Adaptable and open to change,Vata
+How do you respond to setbacks?,Resilient and persistent,Pitta
+How do you respond to setbacks?,Patient and accepting,Kapha
+What is your reaction to cold weather?,Sensitive and dislikes the cold,Vata
+What is your reaction to cold weather?,Tolerates cold weather but may get irritable,Pitta
+What is your reaction to cold weather?,Comfortable and unaffected,Kapha
+How do you approach exercise?,Variety in workouts and activities,Vata
+How do you approach exercise?,Intense and competitive workouts,Pitta
+How do you approach exercise?,Steady and consistent routines,Kapha
+How do you handle social gatherings?,Excitable and talkative,Vata
+How do you handle social gatherings?,Confident and engaging,Pitta
+How do you handle social gatherings?,Relaxed and inclusive,Kapha
+How do you respond to criticism?,Sensitive and emotional,Vata
+How do you respond to criticism?,Assertive and defensive,Pitta
+How do you respond to criticism?,Calm and open to feedback,Kapha
+How do you handle unexpected changes in your routine?,Adaptable and open to adjustments,Vata
+How do you handle unexpected changes in your routine?,Structured and quick to adapt,Pitta
+How do you handle unexpected changes in your routine?,Relaxed and patient,Kapha
+What's your preferred creative outlet?,Exploring new artistic forms,Vata
+What's your preferred creative outlet?,Challenging creative projects,Pitta
+What's your preferred creative outlet?,Relaxing and enjoying creative hobbies,Kapha
+How do you react to challenging puzzles?,Enjoys the mental stimulation,Vata
+How do you react to challenging puzzles?,Determined to solve and may get competitive,Pitta
+How do you react to challenging puzzles?,Calm and patient,Kapha
+What's your ideal vacation type?,Spontaneous adventures,Vata
+What's your ideal vacation type?,Exploring new cultures and experiences,Pitta
+What's your ideal vacation type?,Relaxing in serene natural settings,Kapha
+How do you respond to spicy foods?,Enjoys them with zest,Vata
+How do you respond to spicy foods?,Loves spicy foods but practices moderation,Pitta
+What's your approach to giving and receiving gifts?,Thoughtful and appreciates sentiment,Vata
+What's your approach to giving and receiving gifts?,Practical and values utility,Pitta
+What's your approach to giving and receiving gifts?,Appreciates simple and heartfelt gestures,Kapha
+How do you approach decision-making in a group?,Open to various opinions and ideas,Vata
+How do you approach decision-making in a group?,Analytical and focused on facts,Pitta
+How do you approach decision-making in a group?,Considerate and seeks consensus,Kapha
+What's your reaction to unexpected compliments?,Modest and may feel awkward,Vata
+What's your reaction to unexpected compliments?,Confident and appreciates recognition,Pitta
+What's your reaction to unexpected compliments?,Humble and values positivity,Kapha
+How do you handle financial planning?,Flexible with financial strategies,Vata
+How do you handle financial planning?,Strategic and goal-oriented,Pitta
+How do you handle financial planning?,Prudent and aims for stability,Kapha
+What's your communication style when excited?,Talkative and expressive,Vata
+What's your communication style when excited?,Direct and enthusiastic,Pitta
+What's your communication style when excited?,Calm and content,Kapha
+How do you handle criticism about your appearance?,Sensitive and may feel self-conscious,Vata
+How do you handle criticism about your appearance?,Confident and may dismiss it,Pitta
+How do you handle criticism about your appearance?,Humble and appreciates feedback,Kapha
+How do you respond to crowded social events?,Excitable and enjoys socializing,Vata
+How do you respond to crowded social events?,Confident and stands out in the crowd,Pitta
+How do you respond to crowded social events?,Relaxed and blends in comfortably,Kapha
+What's your approach to helping a friend in need?,Supportive and empathetic,Vata
+What's your approach to helping a friend in need?,Solution-focused and takes action,Pitta
+What's your approach to helping a friend in need?,Calm and reassuring presence,Kapha
+How do you handle unexpected obstacles at work?,Adaptable and open to creative solutions,Vata
+How do you handle unexpected obstacles at work?,Persistent and determined to overcome,Pitta
+How do you handle unexpected obstacles at work?,Calm and methodical problem-solving,Kapha
+What's your response to intense heat?,Tolerates heat but seeks shade,Pitta
+What's your response to intense heat?,Comfortable in the heat and enjoys it,Kapha
+What's your response to intense heat?,Sensitive to heat and looks for coolness,Vata
+What's your attitude towards new technology?,Eager to explore and adapt,Vata
+What's your attitude towards new technology?,Excited about innovation and change,Pitta
+What's your attitude towards new technology?,Cautious and takes time to adopt,Kapha
+What's your reaction to receiving unexpected gifts?,Appreciative and thankful,Vata
+What's your reaction to receiving unexpected gifts?,Confident and may feel deserving,Pitta
+What's your reaction to receiving unexpected gifts?,Humble and grateful,Kapha
+How do you approach time management when working on a project?,Flexible and spontaneous,Vata
+How do you approach time management when working on a project?,Structured and deadline-driven,Pitta
+How do you approach time management when working on a project?,Relaxed and takes it step by step,Kapha
+How do you handle unexpected surprises?,Adaptable and open to spontaneity,Vata
+How do you handle unexpected surprises?,Confident and embraces the unexpected,Pitta
+How do you handle unexpected surprises?,Calm and goes with the flow,Kapha
+What's your favorite type of music to listen to?,Eclectic and open to various genres,Vata
+What's your favorite type of music to listen to?,Energetic and enjoys upbeat tunes,Pitta
+What's your favorite type of music to listen to?,Relaxed and prefers soothing melodies,Kapha
+How do you react to rainy weather?,Enjoys the rain and finds it refreshing,Vata
+How do you react to rainy weather?,Likes rain but may get irritated,Pitta
+How do you react to rainy weather?,Feels comfortable and cozy,Kapha
+How do you approach problem-solving at work?,Innovative and thinks outside the box,Vata
+How do you approach problem-solving at work?,Analytical and data-driven,Pitta
+How do you approach problem-solving at work?,Steady and systematic,Kapha
+What's your reaction to receiving compliments?,Modest and may deflect praise,Vata
+What's your reaction to receiving compliments?,Confident and appreciates compliments,Pitta
+What's your reaction to receiving compliments?,Humble and values positivity,Kapha
+How do you handle unexpected changes in travel plans?,Adapts to changes with enthusiasm,Vata
+How do you handle unexpected changes in travel plans?,Resourceful and quick to adjust,Pitta
+How do you handle unexpected changes in travel plans?,Calm and takes it in stride,Kapha
+What's your preferred relaxation method?,Variety in relaxation techniques,Vata
+What's your preferred relaxation method?,Focused on relaxation goals,Pitta
+What's your preferred relaxation method?,Regular and consistent relaxation,Kapha
+How do you react to technology glitches?,Impatient but seeks quick solutions,Vata
+How do you react to technology glitches?,Eager to fix and may get competitive,Pitta
+How do you react to technology glitches?,Calm and patient,Kapha
+What's your approach to handling a busy day at work?,Energetic and multitasking,Vata
+What's your approach to handling a busy day at work?,Focused and driven by deadlines,Pitta
+What's your approach to handling a busy day at work?,Calm and methodical,Kapha
+How do you handle financial investments?,Cautious and seeks stability,Kapha
+What's your reaction to social media engagement?,Excitable and active on social media,Vata
+What's your reaction to social media engagement?,Confident and enjoys social interaction,Pitta
+What's your reaction to social media engagement?,Relaxed and moderate in social media use,Kapha
+How do you approach setting goals?,Varied and open to new goals,Vata
+How do you approach setting goals?,Focused and goal-driven,Pitta
+How do you approach setting goals?,Steady and consistent in goal-setting,Kapha
+How do you handle unexpected invitations to events?,Adaptable and open to spontaneity,Vata
+How do you handle unexpected invitations to events?,Enthusiastic and embraces social events,Pitta
+How do you handle unexpected invitations to events?,Calm and goes with the flow,Kapha
+How do you respond to intense pressure at work?,Stressed but finding ways to cope,Vata
+How do you respond to intense pressure at work?,Motivated and thrives under pressure,Pitta
+How do you respond to intense pressure at work?,Calm and composed under pressure,Kapha
+What's your reaction to cold weather?,Sensitive and dislikes the cold,Vata
+What's your reaction to cold weather?,Tolerates cold weather but may get irritable,Pitta
+What's your reaction to cold weather?,Comfortable in the cold and bundled up,Kapha
+What's your attitude towards new challenges?,Excited and eager to take on challenges,Vata
+What's your attitude towards new challenges?,Ambitious and competitive in challenges,Pitta
+What's your attitude towards new challenges?,Relaxed and steady when facing challenges,Kapha
+How do you handle disagreements with family?,Expresses feelings openly and seeks resolution,Vata
+How do you handle disagreements with family?,Assertive and may confront disagreements,Pitta
+How do you handle disagreements with family?,Calm and seeks harmony in family dynamics,Kapha
+How do you approach managing your daily schedule?,Flexible and adaptable to changes,Vata
+How do you approach managing your daily schedule?,Structured and follows a set routine,Pitta
+How do you approach managing your daily schedule?,Relaxed and takes it easy,Kapha
+How do you handle unexpected changes in plans?,Adaptable and open to spontaneity,Vata
+How do you handle unexpected changes in plans?,Calm and goes with the flow,Kapha
+What's your response to intense pressure at work?,Stressed but finding ways to cope,Vata
+What's your response to intense pressure at work?,Motivated and thrives under pressure,Pitta
+What's your response to intense pressure at work?,Calm and composed under pressure,Kapha
+How do you respond to unexpected changes in weather?,Adaptable and open to weather shifts,Vata
+How do you respond to unexpected changes in weather?,Resilient and takes weather changes in stride,Pitta
+How do you respond to unexpected changes in weather?,Calm and unfazed by weather fluctuations,Kapha
+What's your favorite type of cuisine to try?,Adventurous and enjoys exploring global flavors,Vata
+What's your favorite type of cuisine to try?,Loves spicy and bold flavors,Pitta
+What's your favorite type of cuisine to try?,Prefers comforting and hearty meals,Kapha
+How do you handle last-minute travel plans?,Spontaneous and excited about the trip,Vata
+How do you handle last-minute travel plans?,Organized and efficiently plans the trip,Pitta
+How do you handle last-minute travel plans?,Calm and enjoys the spontaneity,Kapha
+What's your approach to handling surprises?,Excited and welcomes surprises,Vata
+What's your approach to handling surprises?,Calm and composed in surprising situations,Pitta
+What's your approach to handling surprises?,Relaxed and goes with the flow,Kapha
+How do you react to crowded public transportation?,Adapts to crowded spaces and commutes,Vata
+How do you react to crowded public transportation?,Efficient and navigates through crowds,Pitta
+How do you react to crowded public transportation?,Calm and comfortable in crowded situations,Kapha
+What's your attitude towards environmental conservation?,Supportive and actively engages in conservation efforts,Vata
+What's your attitude towards environmental conservation?,Passionate and advocates for conservation,Pitta
+What's your attitude towards environmental conservation?,Calm and practices eco-friendly habits,Kapha
+How do you approach learning a new language?,Enthusiastic and embraces language challenges,Vata
+How do you approach learning a new language?,Structured and methodical in language learning,Pitta
+How do you approach learning a new language?,Relaxed and enjoys the language-learning process,Kapha
+What's your reaction to loud noises?,Sensitive and may get startled by loud sounds,Vata
+What's your reaction to loud noises?,Tolerates loud noises but may get irritable,Pitta
+What's your reaction to loud noises?,Comfortable and unaffected by loud sounds,Kapha
+How do you handle an unexpected health issue?,Adapts to health changes and seeks solutions,Vata
+How do you handle an unexpected health issue?,Proactive and takes immediate action,Pitta
+How do you handle an unexpected health issue?,Calm and patient during health challenges,Kapha
+What's your response to unexpected changes in work assignments?,Adaptable and open to new tasks,Vata
+What's your response to unexpected changes in work assignments?,Efficient and manages tasks effectively,Pitta
+What's your response to unexpected changes in work assignments?,Relaxed and takes on tasks comfortably,Kapha
+What's your attitude towards trying new sports?,Eager to try various sports and activities,Vata
+What's your attitude towards trying new sports?,Competitive and enjoys challenging sports,Pitta
+What's your attitude towards trying new sports?,Relaxed and enjoys leisurely sports,Kapha
+How do you handle unexpected delays in plans?,Adaptable and finds alternative solutions,Vata
+How do you handle unexpected delays in plans?,Patient and manages delays with composure,Pitta
+How do you handle unexpected delays in plans?,Calm and accepts delays with ease,Kapha
+What's your approach to handling technology glitches?,Impatient but seeks quick resolutions,Vata
+What's your approach to handling technology glitches?,Resourceful and fixes glitches effectively,Pitta
+What's your approach to handling technology glitches?,Calm and patient in resolving issues,Kapha
+How do you react to public speaking engagements?,Excited and enjoys engaging with the audience,Vata
+How do you react to public speaking engagements?,Confident and speaks persuasively,Pitta
+How do you react to public speaking engagements?,Relaxed and communicates comfortably,Kapha
+What's your response to trying new exotic foods?,Adventurous and excited to taste new flavors,Vata
+What's your response to trying new exotic foods?,Curious and eager to explore exotic cuisines,Pitta
+What's your response to trying new exotic foods?,Calm and enjoys new tastes in moderation,Kapha
+How do you approach organizing your workspace?,Creative and adapts to workspace changes,Vata
+How do you approach organizing your workspace?,Structured and maintains an organized workspace,Pitta
+How do you approach organizing your workspace?,Relaxed and comfortable in a clutter-free space,Kapha
+How do you handle unexpected changes in your daily routine?,Adaptable and open to spontaneity,Vata
+How do you handle unexpected changes in your daily routine?,Structured and quickly adjusts,Pitta
+How do you handle unexpected changes in your daily routine?,Calm and goes with the flow,Kapha
+What's your preferred type of literature to read?,Exploring diverse genres and themes,Vata
+What's your preferred type of literature to read?,Engaging in thought-provoking and intellectual literature,Pitta
+What's your preferred type of literature to read?,Relaxing with comforting and light-hearted reads,Kapha
+How do you react to new technology trends?,Excited and eager to embrace new tech,Vata
+How do you react to new technology trends?,Enthusiastic and adopts new tech trends quickly,Pitta
+How do you react to new technology trends?,Cautious and takes time to adapt to tech changes,Kapha
+What's your approach to gardening?,Experimenting with diverse plants and styles,Vata
+What's your approach to gardening?,Precise and meticulous in gardening practices,Pitta
+What's your approach to gardening?,Relaxed and enjoys tending to a harmonious garden,Kapha
+How do you respond to political debates?,Engages actively and enjoys discussing politics,Vata
+How do you respond to political debates?,Passionate and assertive in political discussions,Pitta
+How do you respond to political debates?,Calm and seeks common ground in political debates,Kapha
+What's your reaction to a busy and bustling city?,Excited and enjoys the urban hustle,Vata
+What's your reaction to a busy and bustling city?,Thrives in a fast-paced city environment,Pitta
+What's your reaction to a busy and bustling city?,Calm and finds peace amidst the city chaos,Kapha
+How do you approach trying new cuisines?,Adventurous and eager to taste global flavors,Vata
+How do you approach trying new cuisines?,Enjoys spicy and bold dishes from different cultures,Pitta
+How do you approach trying new cuisines?,Prefers comforting and familiar cuisines,Kapha
+What's your preferred method of learning?,Diverse and open to various learning styles,Vata
+What's your preferred method of learning?,Structured and goal-oriented in learning,Pitta
+What's your preferred method of learning?,Relaxed and enjoys experiential learning,Kapha
+What's your response to a sudden power outage?,Adapts with alternative light sources,Vata
+What's your response to a sudden power outage?,Resourceful and finds quick solutions,Pitta
+What's your response to a sudden power outage?,Calm and comfortable in darkness,Kapha
+How do you handle unexpected traffic delays?,Adapts to the traffic and takes alternative routes,Vata
+How do you handle unexpected traffic delays?,Efficient and navigates through traffic challenges,Pitta
+How do you handle unexpected traffic delays?,Calm and patient during traffic congestion,Kapha
+What's your attitude towards embracing new fashion trends?,Eager to experiment with new styles,Vata
+What's your attitude towards embracing new fashion trends?,Confident and enjoys following fashion trends,Pitta
+What's your attitude towards embracing new fashion trends?,Relaxed and prefers timeless fashion,Kapha
+How do you approach digital communication?,Engages actively in digital conversations and networks,Vata
+How do you approach digital communication?,Direct and efficient in digital interactions,Pitta
+How do you approach digital communication?,Calm and takes digital communication at a comfortable pace,Kapha
+What's your reaction to trying extreme sports?,Excited and eager to experience the adrenaline rush,Vata
+What's your reaction to trying extreme sports?,Fearless and seeks thrilling adventures,Pitta
+What's your reaction to trying extreme sports?,Calm and prefers gentle and safe activities,Kapha
+How do you handle unexpected changes in work projects?,Adaptable and open to new project directions,Vata
+How do you handle unexpected changes in work projects?,Focused and efficient in adapting to changes,Pitta
+How do you handle unexpected changes in work projects?,Calm and takes changes in stride,Kapha
+What's your response to trying spicy foods?,Enjoys them with enthusiasm and zest,Vata
+What's your response to trying spicy foods?,Loves spicy foods but practices moderation,Pitta
+What's your response to trying spicy foods?,Prefers mild flavors and avoids spice,Kapha
+How do you approach decision-making in a group setting?,Open to various perspectives and opinions,Vata
+How do you approach decision-making in a group setting?,Analytical and data-driven in group decisions,Pitta
+How do you approach decision-making in a group setting?,Considerate and seeks consensus in group choices,Kapha
