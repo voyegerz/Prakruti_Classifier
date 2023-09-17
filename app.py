@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from sklearn.externals import joblib
+import joblib
 import random
 import pandas as pd
 
@@ -11,7 +11,7 @@ vectorizer = joblib.load('tfidf_vectorizer.pkl')
 label_encoder = joblib.load('label_encoder.pkl')
 
 # Load questions and options from CSV file
-df = pd.read_csv('new.csv')
+df = pd.read_csv('phenotype.csv')
 questions = df['question'].tolist()
 options = df.groupby('question')['option'].apply(list).to_dict()
 

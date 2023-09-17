@@ -24,3 +24,4 @@ model.fit(X, df['class'])
 joblib.dump(model, 'chatbot_model.pkl')
 joblib.dump(vectorizer, 'tfidf_vectorizer.pkl')
 joblib.dump(label_encoder, 'label_encoder.pkl')
+
