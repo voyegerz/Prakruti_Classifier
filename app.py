@@ -2,6 +2,8 @@ from flask import Flask, request, jsonify
 import joblib
 import random
 import pandas as pd
+from flask import Flask
+from flask_compress import Compress
 
 app = Flask(__name__)
 
@@ -39,6 +41,8 @@ def process_response():
     # Return the classification result as JSON
     result = {"constitution": class_label}
     return jsonify(result)
+
+Compress(app)
 
 if __name__ == '__main__':
     app.run(debug=True)
